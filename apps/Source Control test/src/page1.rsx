@@ -50,7 +50,7 @@
     <Text
       id="text1"
       horizontalAlign="center"
-      value="## Hello world! 👋"
+      value="## more changes!"
       verticalAlign="center"
     />
     <Chart
