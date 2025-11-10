@@ -128,5 +128,12 @@
       overflowType="hidden"
       pageUuid="fb558284-bbf9-11f0-a881-4f6f12479d78"
     />
+    <Module
+      id="testModule2"
+      heightType="fixed"
+      name="test-module-2"
+      overflowType="hidden"
+      pageUuid="9a2781d4-be5f-11f0-a2d7-8375144a38cc"
+    />
   </Frame>
 </Screen>

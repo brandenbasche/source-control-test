@@ -10,6 +10,12 @@
     "height": 0.2,
     "width": 12
   },
+  "testModule2": {
+    "row": 14.8,
+    "col": 2,
+    "height": 2.4,
+    "width": 10
+  },
   "text1": {
     "row": 2.2,
     "col": 3,

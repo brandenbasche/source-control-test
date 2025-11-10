@@ -14,7 +14,7 @@
       isGlobalWidgetContainer={true}
       overflowType="hidden"
     >
-      <Text id="text1" value="👋 **new module!**" verticalAlign="center" />
+      <Text id="text1" value="👋 **module change**" verticalAlign="center" />
     </ModuleContainerWidget>
   </Frame>
 </App>
