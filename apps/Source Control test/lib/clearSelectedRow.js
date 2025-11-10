@@ -1,0 +1,1 @@
+return productsTable.clearSelection()
