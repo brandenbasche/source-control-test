@@ -15,7 +15,11 @@
       isGlobalWidgetContainer={true}
       overflowType="hidden"
     >
-      <Button id="button1" text="Best module ever">
+      <Button
+        id="button1"
+        style={{ map: { background: "danger" } }}
+        text="Best module ever"
+      >
         <Event
           event="click"
           method="confetti"
