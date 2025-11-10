@@ -41,6 +41,12 @@
     padding="8px 12px"
     type="main"
   >
+    <Module
+      id="module1"
+      name="module-3"
+      overflowType="hidden"
+      pageUuid="5eabccb6-be62-11f0-ae86-57edf888624f"
+    />
     <Text
       id="text1"
       horizontalAlign="center"
