@@ -11,6 +11,7 @@
     <ModuleContainerWidget
       id="moduleContainer"
       backgroundColor="white"
+      heightType="auto"
       isGlobalWidgetContainer={true}
       overflowType="hidden"
     >
