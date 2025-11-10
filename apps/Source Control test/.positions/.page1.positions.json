@@ -9,6 +9,11 @@
     "height": 1,
     "width": 12
   },
+  "module2": {
+    "row": 18.2,
+    "height": 1,
+    "width": 12
+  },
   "testModule1": {
     "row": 14.6,
     "height": 0.2,
