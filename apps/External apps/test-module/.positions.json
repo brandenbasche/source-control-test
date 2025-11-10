@@ -1,6 +1,12 @@
 {
+  "button1": {
+    "container": "moduleContainer",
+    "col": 5,
+    "height": 1,
+    "width": 2
+  },
   "moduleContainer": {
-    "height": 12,
-    "width": 12
+    "height": 1,
+    "width": 7
   }
 }

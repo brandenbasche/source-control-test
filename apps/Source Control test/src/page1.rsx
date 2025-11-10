@@ -41,11 +41,7 @@
     padding="8px 12px"
     type="main"
   >
-    <Text
-      id="text1"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
-      verticalAlign="center"
-    />
+    <Text id="text1" value="# 👋 Hello world!" verticalAlign="center" />
     <Chart
       id="barChart1"
       barGap={0.4}
@@ -121,5 +117,11 @@
         zDataMode="manual"
       />
     </Chart>
+    <Module
+      id="testModule1"
+      name="test-module"
+      overflowType="hidden"
+      pageUuid="fb558284-bbf9-11f0-a881-4f6f12479d78"
+    />
   </Frame>
 </Screen>
