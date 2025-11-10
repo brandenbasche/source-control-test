@@ -41,7 +41,12 @@
     padding="8px 12px"
     type="main"
   >
-    <Text id="text1" value="# 👋 Hello world!" verticalAlign="center" />
+    <Text
+      id="text1"
+      horizontalAlign="center"
+      value="## Hello world! 👋"
+      verticalAlign="center"
+    />
     <Chart
       id="barChart1"
       barGap={0.4}
