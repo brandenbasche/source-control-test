@@ -9,6 +9,11 @@
     "height": 9.6,
     "width": 5
   },
+  "coolModule1": {
+    "row": 2.2,
+    "col": 9,
+    "height": 1
+  },
   "iLoveModules1": {
     "row": 19.2,
     "col": 4,
