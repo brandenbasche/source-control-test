@@ -41,48 +41,11 @@
     padding="8px 12px"
     type="main"
   >
-    <Text
-      id="text1"
-      horizontalAlign="center"
-      value="## more changes!"
-      verticalAlign="center"
-    />
-    <Module
-      id="anotherModule1"
-      name="another-module"
-      overflowType="hidden"
-      pageUuid="88804f56-bf13-11f0-b201-5f5147f695d4"
-    />
     <Module
       id="iLoveModules1"
       name="i-love-modules"
       overflowType="hidden"
       pageUuid="241737be-bf0e-11f0-8809-2790d8c99297"
-    />
-    <Module
-      id="coolModule1"
-      name="cool module"
-      overflowType="hidden"
-      pageUuid="ee35f26e-bf14-11f0-bf9d-6375be73492c"
-    />
-    <Module
-      id="testModule1"
-      name="test-module"
-      overflowType="hidden"
-      pageUuid="fb558284-bbf9-11f0-a881-4f6f12479d78"
-    />
-    <Module
-      id="testModule2"
-      heightType="fixed"
-      name="test-module-2"
-      overflowType="hidden"
-      pageUuid="9a2781d4-be5f-11f0-a2d7-8375144a38cc"
-    />
-    <Module
-      id="module2"
-      name="module-4"
-      overflowType="hidden"
-      pageUuid="5db10d32-be6a-11f0-9563-67c53dd96b56"
     />
   </Frame>
 </Screen>
