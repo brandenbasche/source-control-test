@@ -41,12 +41,6 @@
     padding="8px 12px"
     type="main"
   >
-    <Module
-      id="module1"
-      name="module-3"
-      overflowType="hidden"
-      pageUuid="5eabccb6-be62-11f0-ae86-57edf888624f"
-    />
     <Text
       id="text1"
       horizontalAlign="center"
@@ -59,81 +53,18 @@
       overflowType="hidden"
       pageUuid="88804f56-bf13-11f0-b201-5f5147f695d4"
     />
-    <Chart
-      id="barChart1"
-      barGap={0.4}
-      barMode="group"
-      legendPosition="none"
-      selectedPoints="[]"
-      stackedBarTotalsDataLabelPosition="none"
-      title={null}
-      xAxisRangeMax=""
-      xAxisRangeMin=""
-      xAxisShowTickLabels={true}
-      xAxisTickFormatMode="gui"
-      xAxisTitleStandoff={20}
-      yAxis2LineWidth={1}
-      yAxis2RangeMax=""
-      yAxis2RangeMin=""
-      yAxis2ShowTickLabels={true}
-      yAxis2TickFormatMode="gui"
-      yAxis2TitleStandoff={20}
-      yAxisRangeMax=""
-      yAxisRangeMin=""
-      yAxisShowTickLabels={true}
-      yAxisTickFormatMode="gui"
-      yAxisTitleStandoff={20}
-    >
-      <Series
-        id="0"
-        aggregationType="none"
-        colorArray={{ array: [] }}
-        colorArrayDropDown={{ array: [] }}
-        colorInputMode="gradientColorArray"
-        connectorLineColor="#000000"
-        dataLabelPosition="outside"
-        datasource="{{ getProducts.data }}"
-        datasourceMode="manual"
-        decreasingBorderColor="#000000"
-        decreasingColor="#000000"
-        filteredGroups={null}
-        filteredGroupsMode="source"
-        gradientColorArray={{ array: [] }}
-        groupBy={{ array: [] }}
-        groupByDropdownType="manual"
-        groupByStyles={{}}
-        hidden={false}
-        hiddenMode="manual"
-        hoverTemplateArray={{ array: [] }}
-        hoverTemplateMode="manual"
-        increasingBorderColor="#000000"
-        increasingColor="#000000"
-        lineColor="#000000"
-        lineDash="solid"
-        lineShape="linear"
-        lineUnderFillMode="none"
-        lineWidth={2}
-        markerBorderColor="#ffffff"
-        markerBorderWidth={1}
-        markerColor="#000000"
-        markerSize={6}
-        markerSymbol="circle"
-        name="New Series (1)"
-        showMarkers={false}
-        textTemplateMode="manual"
-        type="bar"
-        waterfallBase={0}
-        waterfallMeasures={{ array: [] }}
-        waterfallMeasuresMode="source"
-        xData="{{ getProducts.data.id }}"
-        xDataMode="manual"
-        yAxis="y"
-        yData="{{ getProducts.data.cost.map(p => p.toFixed(2)) }}"
-        yDataMode="manual"
-        zData="[1, 2, 3, 4, 5]"
-        zDataMode="manual"
-      />
-    </Chart>
+    <Module
+      id="iLoveModules1"
+      name="i-love-modules"
+      overflowType="hidden"
+      pageUuid="241737be-bf0e-11f0-8809-2790d8c99297"
+    />
+    <Module
+      id="coolModule1"
+      name="cool module"
+      overflowType="hidden"
+      pageUuid="ee35f26e-bf14-11f0-bf9d-6375be73492c"
+    />
     <Module
       id="coolModule1"
       name="cool module"
@@ -158,12 +89,6 @@
       name="module-4"
       overflowType="hidden"
       pageUuid="5db10d32-be6a-11f0-9563-67c53dd96b56"
-    />
-    <Module
-      id="iLoveModules1"
-      name="i-love-modules"
-      overflowType="hidden"
-      pageUuid="241737be-bf0e-11f0-8809-2790d8c99297"
     />
   </Frame>
 </Screen>
