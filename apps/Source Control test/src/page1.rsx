@@ -147,5 +147,11 @@
       overflowType="hidden"
       pageUuid="5db10d32-be6a-11f0-9563-67c53dd96b56"
     />
+    <Module
+      id="iLoveModules1"
+      name="i-love-modules"
+      overflowType="hidden"
+      pageUuid="241737be-bf0e-11f0-8809-2790d8c99297"
+    />
   </Frame>
 </Screen>
