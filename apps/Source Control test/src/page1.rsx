@@ -54,12 +54,6 @@
       verticalAlign="center"
     />
     <Module
-      id="coolModule1"
-      name="cool module"
-      overflowType="hidden"
-      pageUuid="ee35f26e-bf14-11f0-bf9d-6375be73492c"
-    />
-    <Module
       id="anotherModule1"
       name="another-module"
       overflowType="hidden"
@@ -140,6 +134,12 @@
         zDataMode="manual"
       />
     </Chart>
+    <Module
+      id="coolModule1"
+      name="cool module"
+      overflowType="hidden"
+      pageUuid="ee35f26e-bf14-11f0-bf9d-6375be73492c"
+    />
     <Module
       id="testModule1"
       name="test-module"
