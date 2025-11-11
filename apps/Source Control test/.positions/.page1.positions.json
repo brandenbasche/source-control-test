@@ -1,4 +1,8 @@
 {
+  "anotherModule1": {
+    "row": 3.4,
+    "height": 1
+  },
   "barChart1": {
     "row": 4.2,
     "col": 3,

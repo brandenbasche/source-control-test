@@ -53,6 +53,12 @@
       value="## more changes!"
       verticalAlign="center"
     />
+    <Module
+      id="anotherModule1"
+      name="another-module"
+      overflowType="hidden"
+      pageUuid="88804f56-bf13-11f0-b201-5f5147f695d4"
+    />
     <Chart
       id="barChart1"
       barGap={0.4}
