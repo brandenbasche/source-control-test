@@ -1,0 +1,11 @@
+{
+  "moduleContainer": {
+    "height": 1.4,
+    "width": 2
+  },
+  "text1": {
+    "container": "moduleContainer",
+    "height": 1,
+    "width": 12
+  }
+}
