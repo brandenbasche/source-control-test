@@ -13,7 +13,7 @@
     isMultiplayerEdited={false}
     query={include("../lib/getProducts.sql", "string")}
     resourceDisplayName="retool_db"
-    resourceName="e8231706-d546-427a-abe6-c62127b86c95"
+    resourceName="b6eb99b1-dc64-43d8-a695-2c94650fd82c"
     warningCodes={[]}
   />
   <SqlQueryUnified
@@ -22,7 +22,7 @@
     notificationDuration={4.5}
     query={include("../lib/query1.sql", "string")}
     resourceDisplayName="retool_db"
-    resourceName="e8231706-d546-427a-abe6-c62127b86c95"
+    resourceName="b6eb99b1-dc64-43d8-a695-2c94650fd82c"
     showSuccessToaster={false}
     showUpdateSetValueDynamicallyToggle={false}
     updateSetValueDynamically={true}
