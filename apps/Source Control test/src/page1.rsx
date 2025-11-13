@@ -42,6 +42,12 @@
     type="main"
   >
     <Module
+      id="thursdayModule1"
+      name="thursday-module"
+      overflowType="hidden"
+      pageUuid="357cb844-c0a8-11f0-9a9a-3755a05e5697"
+    />
+    <Module
       id="iLoveModules1"
       name="i-love-modules"
       overflowType="hidden"

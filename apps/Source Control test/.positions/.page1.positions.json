@@ -3,5 +3,11 @@
     "row": 4,
     "col": 3,
     "height": 1
+  },
+  "thursdayModule1": {
+    "row": 2.2,
+    "col": 4,
+    "height": 1.4,
+    "width": 2
   }
 }
