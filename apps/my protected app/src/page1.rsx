@@ -18,9 +18,9 @@
     type="main"
   >
     <Text id="text1" value="# Hello world!" verticalAlign="center" />
-    <Button id="button1" text="Click for a suprise">
+    <Button id="button1" text="Important business button">
       <Event
-        id="d31153df"
+        id="53f9d331"
         event="click"
         method="confetti"
         params={{}}
