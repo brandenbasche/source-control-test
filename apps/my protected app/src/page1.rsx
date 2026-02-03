@@ -30,5 +30,6 @@
         waitType="debounce"
       />
     </Button>
+    <Text id="text2" value="Made with ❤️ at Retool." verticalAlign="center" />
   </Frame>
 </Screen>
