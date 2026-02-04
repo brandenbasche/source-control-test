@@ -31,6 +31,6 @@
       />
     </Button>
     <Text id="text2" value="Made with ❤️ at Retool." verticalAlign="center" />
-    <Button id="button2" text="Button" />
+    <Button id="button2" text="Text" />
   </Frame>
 </Screen>
