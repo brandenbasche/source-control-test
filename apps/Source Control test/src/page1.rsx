@@ -2,6 +2,7 @@
   id="page1"
   _customShortcuts={[]}
   _hashParams={[]}
+  _order={0}
   _searchParams={[]}
   browserTitle=""
   title="Page 1"
@@ -53,5 +54,6 @@
       overflowType="hidden"
       pageUuid="241737be-bf0e-11f0-8809-2790d8c99297"
     />
+    <Text id="text1" value="# Hello world!" verticalAlign="center" />
   </Frame>
 </Screen>

@@ -4,6 +4,11 @@
     "col": 3,
     "height": 1
   },
+  "text1": {
+    "row": 7,
+    "col": 4,
+    "height": 0.6
+  },
   "thursdayModule1": {
     "row": 2.2,
     "col": 4,
