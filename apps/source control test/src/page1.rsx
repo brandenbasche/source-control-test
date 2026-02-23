@@ -145,6 +145,7 @@
         type="custom"
       >
         <Event
+          id="1e6a02c9"
           event="clickToolbar"
           method="exportData"
           pluginId="table1"
@@ -160,6 +161,7 @@
         type="custom"
       >
         <Event
+          id="6b3c6651"
           event="clickToolbar"
           method="refresh"
           pluginId="table1"
@@ -169,5 +171,17 @@
         />
       </ToolbarButton>
     </Table>
+    <Button id="button1" text="Button">
+      <Event
+        id="73cf4e1b"
+        event="click"
+        method="confetti"
+        params={{}}
+        pluginId=""
+        type="util"
+        waitMs="0"
+        waitType="debounce"
+      />
+    </Button>
   </Frame>
 </Screen>
